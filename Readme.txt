@@ -1,6 +1,8 @@
 Unzip all files in one folder, and run the "RUNME" file in Matlab to get started...
 
-Detailed information about this code is provided in "3D computer-generated holography by non-convex optimization", J Zhang, N Pégard, J Zhong, H Adesnik, L Waller. Optica 4 (10), 1306-1313
+Detailed information about this code is provided in "3D computer-generated holography by non-convex optimization", J Zhang, N PÃ©gard, J Zhong, H Adesnik, L Waller. Optica 4 (10), 1306-1313
+
+Paper link : https://www.osapublishing.org/optica/abstract.cfm?uri=optica-4-10-1306
 
 Please Include the following citation whenever apropriate.
 
